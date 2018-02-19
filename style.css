@@ -1,0 +1,21 @@
+/*
+Theme name: Twenty Seventeen child
+Version: 1.0
+Template: twentyseventeen
+*/
+
+@import url('../twentyseventeen/style.css');
+
+
+.navigation-top .wrap {
+	background-color: #af9e90;
+	color: white;
+}
+
+.navigation-top a {
+	background-color: #af9e90;
+	color: white;
+}
+.navigation-top {
+	background-color: #af9e90;
+}
